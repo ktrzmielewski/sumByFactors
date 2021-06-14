@@ -1,0 +1,23 @@
+﻿  Źródło.cpp
+C:\Users\pc\source\repos\Project6\Project6\Źródło.cpp(35,22): warning C4244: "argument": konwersja z "int" do "const _Ty", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\pc\source\repos\Project6\Project6\Źródło.cpp(43,21): warning C4244: "argument": konwersja z "int" do "const _Ty", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910\include\utility(249,16): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty1", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\pc\source\repos\Project6\Project6\Źródło.cpp(73): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<int,int>::pair<float,int,0>(std::pair<float,int> &&) noexcept” funkcji szablon
+C:\Users\pc\source\repos\Project6\Project6\Źródło.cpp(73): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<int,int>::pair<float,int,0>(std::pair<float,int> &&) noexcept” funkcji szablon
+  Project6.vcxproj -> C:\Users\pc\source\repos\Project6\Debug\Project6.exe
